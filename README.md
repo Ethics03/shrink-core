@@ -1,6 +1,6 @@
 # shrink - Container Orchestration Dashboard
 
-A lightweight and intuitive web-based dashboard to visualize and manage containerized applications.  
+A web-based dashboard to visualize and manage containerized applications.
 This project aims to provide an easy interface for developers to track the state of their running containers, inspect logs, monitor usage, and perform basic container operations like start, stop, or restart.
 
 ## Features (Planned)
